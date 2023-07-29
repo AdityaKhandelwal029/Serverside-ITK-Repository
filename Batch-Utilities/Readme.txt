@@ -1,1 +1,1 @@
-This repository contains Teamcenter's server side utilities.
+This repository contains Teamcenter's ITK server side utilities.
