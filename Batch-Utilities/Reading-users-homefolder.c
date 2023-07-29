@@ -1,4 +1,4 @@
-/*Objective - Read users homes folder and get the list of all the components present in it. Add a file log.*/
+/*Objective - Read users homes folder and get the list of all the components present in it and Add a file log.*/
 
 /*Required headers */
 #include <stdio.h>
@@ -121,4 +121,3 @@ int ITK_user_main (int argc, char ** argv)
 	   }
 	return(ITK_ok);
 }
-
